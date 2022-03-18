@@ -1,3 +1,5 @@
+#include "main.h"
+
 /**
  * main - check the code for digits 0 to 9
  * @c: The character to be checked
