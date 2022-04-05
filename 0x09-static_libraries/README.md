@@ -11,7 +11,7 @@ ___
 * A static liberary containing all functions
 
 ### [create_static_lib.sh](./create_static_lib.sh)
-* A script called  that creates a static library called liball.a from all the .c files that are in the current directory
+* A script called  that creates a static library called liball.a from all the .c files that are in the current directory.
 
 _ _ _
 
